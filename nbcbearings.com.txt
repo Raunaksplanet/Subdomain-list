@@ -38,3 +38,16 @@ ideafactory.nbcbearings.com
 66.22.93.155
 www.nbcbearings.com
 lifecalc.nbcbearings.com
+----------------------------------
+https://45.114.142.31/wp-content/uploads/
+https://45.114.142.31/wp-includes/
+
+
+login panel
+https://lifecalc.nbcbearings.com/bearingtool/#/adminLogin
+https://45.114.142.31/backadmin/
+https://nbcbearings.hono.ai/login?
+https://connect.nbcbearings.com/
+https://ideafactory.nbcbearings.com/
+https://travel.happay.in/login
+https://expense.happay.in/login
