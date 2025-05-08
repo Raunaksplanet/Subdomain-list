@@ -4,7 +4,6 @@ acme.makemytrip.com
 activities.makemytrip.com
 ad-admin.makemytrip.com
 ad.makemytrip.com
-adbutler.com
 admin.makemytrip.com
 affiliateintlapi.makemytrip.com
 air-api.makemytrip.com
@@ -30,8 +29,6 @@ cbintl.makemytrip.com
 cbother.makemytrip.com
 ccb.makemytrip.com
 cdf.makemytrip.com
-certificates.godaddy.com
-certs.godaddy.com
 chatsupport.makemytrip.com
 cheapfares-others.makemytrip.com
 cheapfaresindia.makemytrip.com
@@ -44,7 +41,6 @@ contests.makemytrip.com
 corpcb.makemytrip.com
 corpflights.makemytrip.com
 cp3o.makemytrip.com
-crt.sh
 cruise.makemytrip.com
 dbank-auth.makemytrip.com
 dbank-corpseal.makemytrip.com
@@ -63,7 +59,6 @@ freedom.hotels.makemytrip.com
 freedom.intl.makemytrip.com
 gia.makemytrip.com
 giftcard.makemytrip.com
-godaddy.com
 hbx.makemytrip.com
 hcs-promo.makemytrip.com
 hcs.makemytrip.com
@@ -77,7 +72,6 @@ homestaysawards.makemytrip.com
 hotels.makemytrip.com
 hybrid.makemytrip.com
 ilearn.makemytrip.com
-imgak.mmtcdn.com
 ins.makemytrip.com
 intl.makemytrip.com
 investors.makemytrip.com
@@ -163,16 +157,13 @@ www.connect.makemytrip.com
 www.cruise.makemytrip.com
 www.dbank-auth.makemytrip.com
 www.dbank-corpseal.makemytrip.com
-www.digicert.com
 www.domainpswd.makemytrip.com
 www.freedom.holidays.makemytrip.com
 www.freedom.hotels.makemytrip.com
 www.freedom.intl.makemytrip.com
-www.goibibo.com
 www.hbx.makemytrip.com
 www.holidayambassador.makemytrip.com
 www.homestays.makemytrip.com
-www.inspirock.com
 www.intl.makemytrip.com
 www.investors.makemytrip.com
 www.itb-berlin.makemytrip.com
@@ -188,7 +179,6 @@ www.sip.makemytrip.com
 www.support.makemytrip.com
 www.upi.makemytrip.com
 www.us.makemytrip.com
-www.verisign.com
 www.voyager.makemytrip.com
 www.webmail2.makemytrip.com
 40www.makemytrip.com
