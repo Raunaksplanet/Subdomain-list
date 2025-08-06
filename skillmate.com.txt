@@ -28,5 +28,3 @@ mentorship.skillmate.ai
 career.skillmate.ai
 api.skillmate.ai
 nucleus-stage.skillmate.ai
-skillmate.ai
-
