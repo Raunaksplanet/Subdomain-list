@@ -1,0 +1,9 @@
+automation.quickwork.co
+jp-automation.quickwork.co
+jp-ssl-proxy.quickwork.co
+otc-de-apim.quickwork.co
+otc-de-automation.quickwork.co
+sc-auth.quickwork.co
+ssl-proxy.quickwork.co
+tenants.quickwork.co
+www.quickwork.co
